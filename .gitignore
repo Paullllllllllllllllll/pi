@@ -43,3 +43,8 @@ plans/
 .pi/hf-sessions-backup/
 collect.sh
 packages/agent/docs/extensions/pi-server-artifact/index.md
+
+# Agent and T3 Code files (local only)
+CLAUDE.md
+t3.json
+.t3-icon.svg
